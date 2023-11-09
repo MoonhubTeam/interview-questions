@@ -1,7 +1,7 @@
 
 The goal of this exercise to evaluate a candidate on their ability to dive into a codebase, debug, and improve it. 
 
-The evaluation script is a binary classification evaluation suite (with accuracy as teh metric).  
+The evaluation script is a binary classification evaluation suite (with accuracy as the metric).  
 
 There's 3 major issues with the code: 
 1) is_correct should be True/False, not 0/1 
